@@ -1,0 +1,3 @@
+C:/Users/t.little/ComputerScience/CTasks/ChapterOne/cmake-build-debug/CMakeFiles/ChapterOne.dir
+C:/Users/t.little/ComputerScience/CTasks/ChapterOne/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/t.little/ComputerScience/CTasks/ChapterOne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
